@@ -1,13 +1,18 @@
 h1{
-    background-color: blue;
+    background-color: rgb(91, 101, 236);
 }
 h1{
     text-align: center;
 }
 body{
-    background-color: darkblue;
+    background-color: rgb(127, 127, 230);
 }
 p{
     
 }
+   div {
+text-align: center;
+
+   }
+
    
