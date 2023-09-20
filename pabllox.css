@@ -5,14 +5,17 @@ h1{
     text-align: center;
 }
 body{
-    background-color: rgb(127, 127, 230);
+    background: linear-gradient(blue, skyblue);
 }
-p{
-    
-}
+ 
+
    div {
 text-align: center;
 
    }
-
+a {
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+}
    
