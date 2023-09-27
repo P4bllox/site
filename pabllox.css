@@ -5,17 +5,26 @@ h1{
     text-align: center;
 }
 body{
-    background: linear-gradient(blue, skyblue);
+    background: linear-gradient(rgba(96, 96, 235, 0.473),aqua, skyblue, antiquewhite);
 }
  
 
-   div {
+div {
 text-align: center;
-
-   }
+}
 a {
     color: black;
     text-transform: uppercase;
     text-decoration: none;
+}
+h5{
+    font-size: larger;
+}
+h4{
+    font-size: medium;
+}
+p{
+    font-size: medium;
+    font-style: normal;
 }
    
