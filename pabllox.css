@@ -27,4 +27,14 @@ p{
     font-size: medium;
     font-style: normal;
 }
-   
+ul{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 1%;  
+}
+ 
+
+div{
+    border-color: aquamarine;
+}
