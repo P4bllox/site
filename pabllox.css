@@ -1,44 +1,29 @@
 h1{
+    text-align: center;
     background-color: rgb(91, 101, 236);
 }
+body{
+    background-color: aqua;
+}
 h1{
-    text-align: center;
+    font-size: large;
+    font-style: oblique;
+}
+h2{
+    font-size: larger;
+    font-style: oblique;
+}
+h3{
+    font-size: larger;
+    font-style: oblique;
+}
+p{
+    font-size: small;
+    font-style: inherit;
 }
 body{
     background: linear-gradient(rgba(96, 96, 235, 0.473),aqua, skyblue, antiquewhite);
 }
- 
-
-div {
-text-align: center;
-}
-a {
-    color: black;
-    text-transform: uppercase;
-    text-decoration: none;
-}
-h5{
-    font-size: larger;
-}
-h4{
-    font-size: medium;
-}
-p{
-    font-size: medium;
-    font-style: normal;
-}
-ul{
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-    padding: 1%;  
-}
- 
-
 div{
-    border-color: aquamarine;
-}
-nav a :hover {
-color: orange;
-text-decoration: underline;
+    margin-right: 10%;
 }
