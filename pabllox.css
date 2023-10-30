@@ -38,3 +38,7 @@ ul{
 div{
     border-color: aquamarine;
 }
+nav a :hover {
+color: orange;
+text-decoration: underline;
+}
