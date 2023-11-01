@@ -19,4 +19,6 @@ nav a:hover{
     color: orange;
     text-decoration: underline;
 }
-
+nav{
+    text-align: center;
+}
