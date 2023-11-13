@@ -12,8 +12,7 @@ div{
 body{
     background: linear-gradient(rgba(96, 96, 235, 0.473),aqua, skyblue, antiquewhite);
 }
-div{
-    margin-right: 10%;
+
 }
 nav a:hover{
     color: orange;
